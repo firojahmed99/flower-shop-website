@@ -1,0 +1,133 @@
+.main-div {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(255, 192, 203, 0.253);
+    background-size: cover;
+    height: 82vh;
+    width: cover;
+    align-items: center;
+}
+
+.btn {
+    padding: 10px 10px;
+    border: none
+}
+
+.color {
+    background-color: rgb(223, 126, 126);
+}
+
+.left {
+    text-align: center;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.icon1 {
+    background-color: rgba(255, 182, 193, 0.774);
+    height: 400px;
+    width: 300px;
+    border-top-left-radius: 150px 150px;
+    border-top-right-radius: 150px 150px;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.icon2 {
+    background-color: rgba(175, 223, 218, 0.534);
+    height: 400px;
+    width: 300px;
+    border-top-left-radius: 150px 150px;
+    border-top-right-radius: 150px 150px;
+    padding: 5px;
+}
+
+.icon3 {
+    background-color: rgb(243, 224, 255);
+    height: 400px;
+    width: 300px;
+    border-top-left-radius: 150px 150px;
+    border-top-right-radius: 150px 150px;
+    padding: 5px;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    gap: 4px;
+    padding: 100px;
+    background-color: white;
+}
+
+.container {
+    height: 200px;
+    padding: 150px;
+    display: flex;
+    background-color: rgb(243, 224, 255);
+    gap: 10px;
+    justify-content: space-around;
+
+}
+
+.id {
+    color: palevioletred;
+}
+
+.div-sale {
+    background-color: rgb(243, 224, 255);;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.flower {
+    text-align: center;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.side {
+    gap: 5px;
+}
+
+.subscribe {
+    height: 300px;
+    width: 1000px;
+    background-image: url('./flower assets/Rectangle\ 9.png');
+    background-size: cover;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+}
+.example{
+    margin-top: 15px;
+}
+
+.footer {
+    height: 200px;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+.title {
+    color: white;
+}
+
+.div {
+    color: palevioletred;
+}
